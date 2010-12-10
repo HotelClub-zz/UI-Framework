@@ -1,0 +1,38 @@
+/**
+ * Base
+ *
+ * CSS Base - Based on YUI 3: CSS Base
+ *
+ * CSS Base is an optional CSS file that complements YUI's core CSS foundation
+ * (CSS Reset and CSS Fonts). CSS Base applies a style foundation for HTML
+ * elements that is consistent for A-grade browsers.
+ *
+ * @project HotelClub UI Framework
+ * @version 1.0
+ * @package (x)html-css
+ * @author Robert Love
+ * @copyright 2010 by the author
+ * @cssdoc version 1.0-pre
+ * @license New BSD License
+ * @see http://developer.yahoo.com/yui/3/cssbase/
+ */
+h1{font-size:138.5%}
+h2{font-size:123.1%}
+h3{font-size:108%}
+h1,h2,h3{margin:1em 0}
+h1,h2,h3,h4,h5,h6,strong{font-weight:bold}
+abbr,acronym{border-bottom:1px dotted #000;cursor:help}
+em{font-style:italic}
+blockquote,ul,ol,dl{margin:1em}
+ol,ul,dl{margin-left:2em}
+ol li{list-style:decimal outside}
+ul li{list-style:disc outside}
+dl dd{margin-left:1em}
+th,td{padding:.5em}
+th{font-weight:bold;text-align:center}
+caption{margin-bottom:.5em;text-align:center}
+p,fieldset,table,pre{margin-bottom:1em}
+pre{overflow:scroll}
+a,a:active,a:focus,a:hover,embed,object{outline:0}
+input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em}
+hr{background:#ddd;border:none;clear:both;color:#ddd;float:none;height:1px;margin:1.5em 0;width:100%}

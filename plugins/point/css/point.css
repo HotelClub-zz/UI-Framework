@@ -1,0 +1,19 @@
+/**
+ * Point
+ *
+ * Pointing is rude!
+ *
+ * @project HotelClub UI Framework
+ * @version 1.0
+ * @package (x)html-css
+ * @author Robert Love
+ * @copyright 2010 by the author
+ * @cssdoc version 1.0-pre
+ * @license New BSD License
+ * @see http://www.sitepoint.com/forums/showthread.php?t=657584
+ */
+.point{-moz-border-radius-topleft:4px;-moz-border-radius-bottomleft:4px;-webkit-border-radius-topleft:4px;-webkit-border-radius-bottomleft:4px;background:#cf2726;color:#fff;float:left; *float:none; *display:inline; zoom: 1; font-size:11px;font-weight:normal;height:2em;line-height:2em;margin-right:2em;padding-left:.5em;text-align:center;text-transform:uppercase}
+.point span{border-bottom:1em solid transparent;border-left:1em solid #cf2726;border-top:1em solid transparent;float:right;height:0;margin-right:-11px;width:0;*display:none}
+.point em{float:right;*float:none;font-style:normal;*padding-right:0.5em}
+.pointBlue{background:#3d77b7}
+.pointBlue span{border-left:1em solid #3d77b7}

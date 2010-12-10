@@ -1,0 +1,18 @@
+/**
+ * Fancy Form
+ *
+ * CSS Fancy Form
+ *
+ * Create real fancy forms!
+ *
+ * @project HotelClub UI Framework
+ * @version 1.0
+ * @package (x)html-css
+ * @author Tim Olthof
+ * @author Robert Love
+ * @copyright 2010 by the author
+ * @cssdoc version 1.0-pre
+ * @license New BSD License
+ */
+.fancyForm{/**/}
+.fancyForm .file,.fancyForm .password,.fancyForm select,.fancyForm .text,.fancyForm textarea{-moz-border-radius:5px;-moz-box-shadow:0 -2px 0px 0 rgba(0, 0, 0, 0.35), 0 2px 0px 0 rgba(255, 255, 255, 0.35), 0px 0px 8px 0px rgba(0, 0, 0, 0.5) inset;-webkit-border-radius:5px;-webkit-box-shadow:0 -2px 0px 0 rgba(0, 0, 0, 0.35), 0 2px 0px 0 rgba(255, 255, 255, 0.35), 0px 0px 8px 0px rgba(0, 0, 0, 0.5) inset;background-color:#fff;border:0;border-radius:5px;box-shadow:0 -2px 0px 0 rgba(0, 0, 0, 0.35), 0 2px 0px 0 rgba(255, 255, 255, 0.35), 0px 0px 8px 0px rgba(0, 0, 0, 0.5) inset;color:#3b2e25;margin:2px 0;padding:.7em}

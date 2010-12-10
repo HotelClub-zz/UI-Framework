@@ -1,0 +1,27 @@
+/**
+ * Form
+ *
+ * CSS Form
+ *
+ * Show us ya forms!
+ *
+ * @project HotelClub UI Framework
+ * @version 1.0
+ * @package (x)html-css
+ * @author Robert Love
+ * @copyright 2010 by the author
+ * @cssdoc version 1.0-pre
+ * @license New BSD License
+ */
+.form{/**/}
+.form fieldset{-moz-border-radius:4px;-webkit-border-radius:4px;border:1px solid #c8cdd1;padding:1em}
+.form legend{font-size:1.2em;font-weight:bold}
+.form .item{margin:1em 0}
+.form label{display:block;margin-bottom:.2em}
+.form .file,.form .password,.form select,.form .text,.form textarea{-moz-border-radius:4px;-webkit-border-radius:4px;border-color:#c8cdd1;border-style:solid;border-width:1px;color:#707070;padding:.5em}
+.form .required{-moz-border-radius:4px;-webkit-border-radius:4px;border-color:#c8cdd1;border-style:solid;border-width:1px 1px 1px 5px;color:#707070;padding:.5em}
+.form .error{-moz-border-radius:4px;-webkit-border-radius:4px;border-color:#c8cdd1 #c8cdd1 #c8cdd1 #cf2726;border-style:solid;border-width:1px 1px 1px 5px;color:#707070;padding:.5em}
+.form .valid{-moz-border-radius:4px;-webkit-border-radius:4px;border-color:#c8cdd1 #c8cdd1 #c8cdd1 #00a651;border-style:solid;border-width:1px 1px 1px 5px;color:#707070;padding:.5em}
+.form .msg,.form .tip{color:#707070;margin:.5em 0}
+.form .msg{color:#cf2726}
+.form label.error{-moz-border-radius:none;-webkit-border-radius:none;border:none;color:#cf2726;margin:.5em 0;padding:0}

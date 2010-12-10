@@ -1,0 +1,24 @@
+/**
+ * Module
+ *
+ * CSS Module - Based on OOCSS Module
+ *
+ * Modules are based on the Standard Module Format. They provide a simple,
+ * predictable way to skin container objects while maintaining accessibility and
+ * performance.
+ *
+ * @project HotelClub UI Framework
+ * @version 1.0
+ * @package (x)html-css
+ * @author Robert Love
+ * @copyright 2010 by the author
+ * @cssdoc version 1.0-pre
+ * @license New BSD License
+ * @see http://wiki.github.com/stubbornella/oocss/module
+ * @see http://wiki.github.com/stubbornella/oocss/standard-module-format
+ * @see http://developer.yahoo.com/yui/examples/container/module.html
+ */
+.mod{margin:10px}
+.mod .inner,.mod .bd,.mod .ft{*zoom:1}
+.mod .inner:after,.mod .hd:after,.mod .bd:after,.mod .ft:after{clear:both;display:block;visibility:hidden;overflow:hidden;height:0 !important;line-height:0;font-size:xx-large;content:" x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x "}
+.mod .inner{position:relative}

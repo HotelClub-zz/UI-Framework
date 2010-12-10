@@ -1,0 +1,41 @@
+/**
+ * Message
+ *
+ * CSS Flash Messages
+ *
+ * Flash messaging for the masses
+ *
+ * @project HotelClub UI Framework
+ * @version 1.0
+ * @package (x)html-css
+ * @author Robert Love
+ * @copyright 2010 by the author
+ * @cssdoc version 1.0-pre
+ * @license New BSD License
+ */
+.msg{-moz-border-radius:4px;-webkit-border-radius:4px;background-color:#fff6bf;background-position:20px 50%;background-image:url("img/notice.png");background-repeat:no-repeat;border-radius:4px;color:#514721;margin:10px;padding:20px 20px 20px 50px}
+.msg a{color:#514721;font-weight:bold}
+/**
+ * Flash Error Message
+ *
+ * @section Flash Error message styles
+ * @extends msg
+ */
+.msgError{background-color:#fbe3e4;background-image:url("img/error.png");color:#8a1f11}
+.msgError a{color:#8a1f11}
+/**
+ * Flash Info Message
+ *
+ * @section Flash Info message styles
+ * @extends msg
+ */
+.msgInfo{background-color:#bde5f8;background-image:url("img/info.png");color:#00529b}
+.msgInfo a{color:#00529b}
+/**
+ * Flash Success Message
+ *
+ * @section Flash Success message styles
+ * @extends msg
+ */
+.msgSuccess{background-color:#e6efc2;background-image:url("img/success.png");color:#264409}
+.msgSuccess a{color:#264409}

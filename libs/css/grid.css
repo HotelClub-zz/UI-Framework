@@ -1,0 +1,92 @@
+/**
+ * Grid
+ *
+ * CSS Grid - Based on OOCSS Grids
+ *
+ * Grids are used to break any space into fractions, they can be nested and
+ * stacked. A unit can contain another line or it can contain other objects
+ * directly. The sum of the fractional sizes of all children of one line should
+ * be equal to one. Grids control width, content controls height. The grids have
+ * all the functionality of YUI grids and some other important features.
+ *
+ * @project HotelClub UI Framework
+ * @version 1.0
+ * @package (x)html-css
+ * @author Robert Love
+ * @copyright 2010 by the author
+ * @cssdoc version 1.0-pre
+ * @license New BSD License
+ * @see http://wiki.github.com/stubbornella/oocss/grids
+ */
+@media screen and (max-width:319px) {.col{float:none !important;width:auto !important}}
+.row:after,.lastCol:after{clear:both;display:block;visibility:hidden;overflow:hidden;height:0 !important;line-height:0;font-size:xx-large;content:" x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x "}
+.row{*zoom:1}
+.col{float:left}
+.span1of1{float:none}
+.span1of2{width:50%}
+.span1of3{width:33.33333%}
+.span2of3{width:66.66666%}
+.span1of4{width:25%}
+.span2of4{width:50%}
+.span3of4{width:75%}
+.span1of5{width:20%}
+.span2of5{width:40%}
+.span3of5{width:60%}
+.span4of5{width:80%}
+.span1of6{width:16.66666%}
+.span2of6{width:33.33333%}
+.span3of6{width:50%}
+.span4of6{width:66.66666%}
+.span5of6{width:83.33333%}
+.span1of7{width:14.28571%}
+.span2of7{width:28.57143%}
+.span3of7{width:42.85714%}
+.span4of7{width:57.14286%}
+.span5of7{width:71.42857%}
+.span6of7{width:85.71429%}
+.span1of8{width:12.5%}
+.span2of8{width:25%}
+.span3of8{width:37.5%}
+.span4of8{width:50%}
+.span5of8{width:62.5%}
+.span6of8{width:75%}
+.span7of8{width:87.5%}
+.span1of9{width:11.11111%}
+.span2of9{width:22.22222%}
+.span3of9{width:33.33333%}
+.span4of9{width:44.44444%}
+.span5of9{width:55.55555%}
+.span6of9{width:66.66666%}
+.span7of9{width:77.77777%}
+.span8of9{width:88.88888%}
+.span1of10{width:10%}
+.span2of10{width:20%}
+.span3of10{width:30%}
+.span4of10{width:40%}
+.span5of10{width:50%}
+.span6of10{width:60%}
+.span7of10{width:70%}
+.span8of10{width:80%}
+.span9of10{width:90%}
+.span1of11{width:9.09091%}
+.span2of11{width:18.18182%}
+.span3of11{width:27.27273%}
+.span4of11{width:36.36364%}
+.span5of11{width:45.45455%}
+.span6of11{width:54.54545%}
+.span7of11{width:63.63636%}
+.span8of11{width:72.72727%}
+.span9of11{width:81.81818%}
+.span10of11{width:90.90909%}
+.span1of12{width:8.33333%}
+.span2of12{width:16.66667%}
+.span3of12{width:25%}
+.span4of12{width:33.33333%}
+.span5of12{width:41.66666%}
+.span6of12{width:50%}
+.span7of12{width:58.33333%}
+.span8of12{width:66.66666%}
+.span9of12{width:75%}
+.span10of12{width:83.33333%}
+.span11of12{width:91.66666%}
+.lastCol{display:table-cell;float:none;width:auto;*display:block;*zoom:1;_position:relative;_left:-3px;_margin-right:-3px}

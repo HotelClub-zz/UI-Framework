@@ -1,0 +1,37 @@
+/**
+ * Star rating
+ *
+ * CSS Star rating
+ *
+ * Reach for the stars!
+ *
+ * @project HotelClub UI Framework
+ * @version 1.0
+ * @package (x)html-css
+ * @author Tim Olthof
+ * @author Robert Love
+ * @copyright 2010 by the author
+ * @cssdoc version 1.0-pre
+ * @license New BSD License
+ */
+.star{background:url("img/star.png") 0 50% no-repeat;display:inline-block;text-indent:-10000em;width:0px;_background:url("img/_star.png") no-repeat;_display:block}
+.star05{width:7px}
+.star10,.star1{width:13px}
+.star15{width:22px}
+.star20,.star2{width:28px}
+.star25{width:37px}
+.star30,.star3{width:43px}
+.star35{width:52px}
+.star40,.star4{width:58px}
+.star45{width:67px}
+.star50,.star5{width:73px}
+.star55{width:83px}
+.star60,.star6{width:88px}
+.star65{width:97px}
+.star70,.star7{width:103px}
+.star75{width:112px}
+.star80,.star8{width:118px}
+.star85{width:127px}
+.star90,.star9{width:133px}
+.star95{width:142px}
+.star100{width:148px}

@@ -1,0 +1,178 @@
+/**
+ * Button
+ *
+ * CSS Buttons
+ *
+ * Please click me!
+ *
+ * @project HotelClub UI Framework
+ * @version 1.0
+ * @package (x)html-css
+ * @author Robert Love
+ * @copyright 2010 by the author
+ * @cssdoc version 1.0-pre
+ * @license New BSD License
+ */
+.btn{-moz-border-radius:4px;-moz-text-shadow:#000 1px 1px 1px;-webkit-border-radius:4px;-webkit-text-shadow:#000 1px 1px 1px;background-position:0 50%;background-repeat:repeat-x;border-style:solid;border-width:1px;cursor:pointer;display:inline-block;font-weight:bold;padding:5px 10px;text-decoration:none !important;text-shadow:#000 1px 1px 1px;line-height:1.5}
+input.btn{*padding:0}
+input.btn:focus{*outline:0}
+/**
+ * Flat button
+ *
+ * @section Flat finish button styles
+ */
+.btnAliceBlue{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#f0f8ff;border-color:#f0f8ff;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnAntiqueWhite{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#faebd7;border-color:#faebd7;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnAqua{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#00ffff;border-color:#00ffff;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnAquamarine{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#7fffd4;border-color:#7fffd4;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnAzure{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#f0ffff;border-color:#f0ffff;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnBeige{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#f5f5dc;border-color:#f5f5dc;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnBisque{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ffe4c4;border-color:#ffe4c4;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnBlack{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#000000;border-color:#000000;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnBlanchedAlmond{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ffebcd;border-color:#ffebcd;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnBlue{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#0000ff;border-color:#0000ff;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnBlueViolet{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#8a2be2;border-color:#8a2be2;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnBrown{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#a52a2a;border-color:#a52a2a;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnBurlyWood{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#deb887;border-color:#deb887;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnCadetBlue{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#5f9ea0;border-color:#5f9ea0;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnChartreuse{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#7fff00;border-color:#7fff00;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnChocolate{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#d2691e;border-color:#d2691e;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnCoral{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ff7f50;border-color:#ff7f50;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnCornflowerBlue{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#6495ed;border-color:#6495ed;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnCornsilk{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#fff8dc;border-color:#fff8dc;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnCrimson{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#dc143c;border-color:#dc143c;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnCyan{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#00ffff;border-color:#00ffff;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnDarkBlue{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#00008b;border-color:#00008b;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnDarkCyan{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#008b8b;border-color:#008b8b;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnDarkGoldenRod{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#b8860b;border-color:#b8860b;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnDarkGray{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#a9a9a9;border-color:#a9a9a9;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnDarkGreen{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#006400;border-color:#006400;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnDarkKhaki{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#bdb76b;border-color:#bdb76b;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnDarkMagenta{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#8b008b;border-color:#8b008b;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnDarkOliveGreen{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#556b2f;border-color:#556b2f;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnDarkorange{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ff8c00;border-color:#ff8c00;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnDarkOrchid{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#9932cc;border-color:#9932cc;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnDarkRed{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#8b0000;border-color:#8b0000;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnDarkSalmon{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#e9967a;border-color:#e9967a;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnDarkSeaGreen{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#8fbc8f;border-color:#8fbc8f;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnDarkSlateBlue{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#483d8b;border-color:#483d8b;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnDarkSlateGray{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#2f4f4f;border-color:#2f4f4f;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnDarkTurquoise{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#00ced1;border-color:#00ced1;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnDarkViolet{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#9400d3;border-color:#9400d3;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnDeepPink{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ff1493;border-color:#ff1493;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnDeepSkyBlue{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#00bfff;border-color:#00bfff;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnDimGray{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#696969;border-color:#696969;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnDodgerBlue{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#1e90ff;border-color:#1e90ff;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnFireBrick{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#b22222;border-color:#b22222;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnFloralWhite{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#fffaf0;border-color:#fffaf0;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnForestGreen{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#228b22;border-color:#228b22;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnFuchsia{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ff00ff;border-color:#ff00ff;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnGainsboro{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#dcdcdc;border-color:#dcdcdc;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnGhostWhite{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#f8f8ff;border-color:#f8f8ff;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnGold{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ffd700;border-color:#ffd700;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnGoldenRod{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#daa520;border-color:#daa520;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnGray{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#808080;border-color:#808080;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnGreen{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#008000;border-color:#008000;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnGreenYellow{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#adff2f;border-color:#adff2f;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnHoneyDew{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#f0fff0;border-color:#f0fff0;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnHotPink{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ff69b4;border-color:#ff69b4;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnIndianRed{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#cd5c5c;border-color:#cd5c5c;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnIndigo{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#4b0082;border-color:#4b0082;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnIvory{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#fffff0;border-color:#fffff0;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnKhaki{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#f0e68c;border-color:#f0e68c;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnLavender{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#e6e6fa;border-color:#e6e6fa;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnLavenderBlush{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#fff0f5;border-color:#fff0f5;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnLawnGreen{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#7cfc00;border-color:#7cfc00;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnLemonChiffon{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#fffacd;border-color:#fffacd;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnLightBlue{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#add8e6;border-color:#add8e6;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnLightBrown{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#eee9d0;border-color:#add8e6;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnLightCoral{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#f08080;border-color:#f08080;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnLightCyan{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#e0ffff;border-color:#e0ffff;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnLightGoldenRodYellow{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#fafad2;border-color:#fafad2;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnLightGreen{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#90ee90;border-color:#90ee90;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnLightGrey{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#d3d3d3;border-color:#d3d3d3;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnLightPink{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ffb6c1;border-color:#ffb6c1;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnLightSalmon{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ffa07a;border-color:#ffa07a;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnLightSeaGreen{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#20b2aa;border-color:#20b2aa;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnLightSkyBlue{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#87cefa;border-color:#87cefa;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnLightSlateGray{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#778899;border-color:#778899;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnLightSteelBlue{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#b0c4de;border-color:#b0c4de;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnLightYellow{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ffffe0;border-color:#ffffe0;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnLime{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#00ff00;border-color:#00ff00;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnLimeGreen{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#32cd32;border-color:#32cd32;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnLinen{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#faf0e6;border-color:#faf0e6;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnMagenta{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ff00ff;border-color:#ff00ff;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnMaroon{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#800000;border-color:#800000;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnMediumAquaMarine{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#66cdaa;border-color:#66cdaa;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnMediumBlue{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#0000cd;border-color:#0000cd;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnMediumOrchid{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ba55d3;border-color:#ba55d3;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnMediumPurple{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#9370d8;border-color:#9370d8;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnMediumSeaGreen{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#3cb371;border-color:#3cb371;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnMediumSlateBlue{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#7b68ee;border-color:#7b68ee;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnMediumSpringGreen{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#00fa9a;border-color:#00fa9a;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnMediumTurquoise{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#48d1cc;border-color:#48d1cc;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnMediumVioletRed{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#c71585;border-color:#c71585;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnMidnightBlue{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#191970;border-color:#191970;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnMintCream{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#f5fffa;border-color:#f5fffa;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnMistyRose{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ffe4e1;border-color:#ffe4e1;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnMoccasin{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ffe4b5;border-color:#ffe4b5;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnNavajoWhite{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ffdead;border-color:#ffdead;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnNavy{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#000080;border-color:#000080;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnOldLace{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#fdf5e6;border-color:#fdf5e6;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnOlive{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#808000;border-color:#808000;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnOliveDrab{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#6b8e23;border-color:#6b8e23;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnOrange{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ffa500;border-color:#ffa500;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnOrangeRed{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#ff4500;border-color:#ff4500;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnOrchid{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#da70d6;border-color:#da70d6;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnPaleGoldenRod{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#eee8aa;border-color:#eee8aa;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnPaleGreen{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#98fb98;border-color:#98fb98;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnPaleTurquoise{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#afeeee;border-color:#afeeee;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnPaleVioletRed{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#d87093;border-color:#d87093;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnPapayaWhip{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ffefd5;border-color:#ffefd5;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnPeachPuff{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ffdab9;border-color:#ffdab9;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnPeru{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#cd853f;border-color:#cd853f;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnPink{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ffc0cb;border-color:#ffc0cb;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnPlum{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#dda0dd;border-color:#dda0dd;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnPowderBlue{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#b0e0e6;border-color:#b0e0e6;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnPurple{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#800080;border-color:#800080;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnRed{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#ff0000;border-color:#ff0000;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnRosyBrown{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#bc8f8f;border-color:#bc8f8f;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnRoyalBlue{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#4169e1;border-color:#4169e1;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnSaddleBrown{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#8b4513;border-color:#8b4513;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnSalmon{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#fa8072;border-color:#fa8072;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnSandyBrown{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#f4a460;border-color:#f4a460;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnSeaGreen{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#2e8b57;border-color:#2e8b57;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnSeaShell{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#fff5ee;border-color:#fff5ee;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnSienna{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#a0522d;border-color:#a0522d;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnSilver{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#c0c0c0;border-color:#c0c0c0;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnSkyBlue{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#87ceeb;border-color:#87ceeb;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnSlateBlue{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#6a5acd;border-color:#6a5acd;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnSlateGray{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#708090;border-color:#708090;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnSnow{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#fffafa;border-color:#fffafa;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnSpringGreen{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#00ff7f;border-color:#00ff7f;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnSteelBlue{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#4682b4;border-color:#4682b4;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnTan{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#d2b48c;border-color:#d2b48c;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnTeal{-moz-text-shadow:#000 1px 1px 1px;-webkit-text-shadow:#000 1px 1px 1px;background-color:#008080;border-color:#008080;color:#fff;text-shadow:#000 1px 1px 1px}
+.btnThistle{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#d8bfd8;border-color:#d8bfd8;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnTomato{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ff6347;border-color:#ff6347;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnTurquoise{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#40e0d0;border-color:#40e0d0;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnViolet{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ee82ee;border-color:#ee82ee;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnWheat{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#f5deb3;border-color:#f5deb3;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnWhite{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ffffff;border-color:#ffffff;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnWhiteSmoke{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#f5f5f5;border-color:#f5f5f5;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnYellow{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#ffff00;border-color:#ffff00;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnYellowGreen{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#9acd32;border-color:#9acd32;color:#000;text-shadow:#fff 1px 1px 1px}
+/**
+ * Gloss button
+ *
+ * @section Gloss finish button styles
+ */
+.btnBlackGloss{background-color:#000;background-image:url("img/blackGloss.png");border-color:#000;color:#fff}
+.btnBlueGloss{background-color:#000;background-image:url("img/blueGloss.png");border-color:#1f54bc;color:#fff}
+.btnBrownGloss{background-color:#000;background-image:url("img/brownGloss.png");border-color:#853212;color:#fff}
+.btnGreenGloss{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#000;background-image:url("img/greenGloss.png");border:1px solid #5b9400;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnGrayGloss{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#000;background-image:url("img/grayGloss.png");border-color:#9db0bc;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnOrangeGloss{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#000;background-image:url("img/orangeGloss.png");border-color:#dc6b00;color:#000;text-shadow:#fff 1px 1px 1px}
+.btnPinkGloss{background-color:#000;background-image:url("img/pinkGloss.png");border-color:#d957af;color:#fff}
+.btnRedGloss{background-color:#000;background-image:url("img/redGloss.png");border-color:#a41100;color:#fff}
+.btnWhiteGloss{-moz-text-shadow:#fff 1px 1px 1px;-webkit-text-shadow:#fff 1px 1px 1px;background-color:#000;background-image:url("img/whiteGloss.png");border-color:#b3b3b3;color:#000;text-shadow:#fff 1px 1px 1px}

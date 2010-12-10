@@ -1,0 +1,20 @@
+/**
+ * Media
+ *
+ * CSS Media Object (based on the work of Nicole Sullivan (OOCSS))
+ *
+ * The media object saves hundreds of lines of code
+ *
+ * @project HotelClub UI Framework
+ * @version 1.0
+ * @package (x)html-css
+ * @author Robert Love
+ * @copyright 2010 by the author
+ * @cssdoc version 1.0-pre
+ * @license New BSD License
+ * @see http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/
+ */
+.media{overflow:hidden;overflow:visible;zoom:1}
+.media .img{float:left;margin-right:10px}
+.media .img img{display:block}
+.media .imgExt{float:right;margin-left:10px}

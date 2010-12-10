@@ -1,0 +1,22 @@
+/**
+ * Font
+ *
+ * CSS Font - Based on YUI 3: CSS Fonts
+ *
+ * The foundational CSS Fonts provides cross-browser typographical normalization
+ * and control while still allowing users to choose and adjust their font size.
+ * Both Standards and Quirks modes are supported in A-grade browsers.
+ *
+ * @project HotelClub UI Framework
+ * @version 1.0
+ * @package (x)html-css
+ * @author Robert Love
+ * @copyright 2010 by the author
+ * @cssdoc version 1.0-pre
+ * @license New BSD License
+ * @see http://developer.yahoo.com/yui/3/cssfonts/
+ */
+body{font:13px/1.231 arial,helvetica,clean,sans-serif;*font-size:small;*font:x-small}
+select,input,button,textarea{font:99% arial,helvetica,clean,sans-serif}
+table{font-size:inherit;font:100%}
+pre,code,kbd,samp,tt{font-family:monospace;*font-size:108%;line-height:100%}

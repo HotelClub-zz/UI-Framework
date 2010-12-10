@@ -1,0 +1,86 @@
+/**
+ * Icon
+ *
+ * CSS Icon
+ *
+ * A picture paints a thousand words. Say it with an icon!
+ *
+ * @project HotelClub UI Framework
+ * @version 1.0
+ * @package (x)html-css
+ * @author Robert Love
+ * @copyright 2010 by the author
+ * @cssdoc version 1.0-pre
+ * @license New BSD License
+ */
+.icon{background-position:0 50%;background-repeat:no-repeat;display:inline-block;padding-left:21px;min-height:16px}
+.iconR{background-position:100% 50%;background-repeat:no-repeat;display:inline-block;padding-right:21px;min-height:16px}
+.iconSml{background-position:0 50%;background-repeat:no-repeat;display:inline-block;padding-left:15px;min-height:10px}
+.iconSmlR{background-position:100% 50%;background-repeat:no-repeat;display:inline-block;padding-right:15px;min-height:10px}
+.iconMed{background-position:0 50%;background-repeat:no-repeat;display:inline-block;padding-left:33px;min-height:28px}
+.iconMedR{background-position:100% 50%;background-repeat:no-repeat;display:inline-block;padding-right:33px;min-height:28px}
+/**
+ * Default icons
+ *
+ * @section Default icon styles
+ */
+.iconAdd{background-image:url("img/16/add.png")}
+.iconAddressBook{background-image:url("img/16/addressBook.png")}
+.iconAsterisk{background-image:url("img/16/asterisk.png")}
+.iconBriefcase{background-image:url("img/16/briefcase.png")}
+.iconCalIn{background-image:url("img/16/calIn.png")}
+.iconCalOut{background-image:url("img/16/calOut.png")}
+.iconCarRed{background-image:url("img/16/carRed.png")}
+.iconClock{background-image:url("img/16/clock.png")}
+.iconCoin{background-image:url("img/16/coin.png")}
+.iconConversation{background-image:url("img/16/conversation.png")}
+.iconDocBookmark{background-image:url("img/16/docBookmark.png")}
+.iconDocPageNext{background-image:url("img/16/docPageNext.png")}
+.iconFunnel{background-image:url("img/16/funnel.png")}
+.iconInfo{background-image:url("img/16/info.png")}
+.iconLuggageTag{background-image:url("img/16/luggageTag.png")}
+.iconMagnify{background-image:url("img/16/magnify.png")}
+.iconMap{background-image:url("img/16/map.png")}
+.iconMinus{background-image:url("img/16/minus.png")}
+.iconMoneyCoin{background-image:url("img/16/moneyCoin.png")}
+.iconPackageGo{background-image:url("img/16/packageGo.png")}
+.iconPageRight{background-image:url("img/16/pageRight.png")}
+.iconPaperBagLabel{background-image:url("img/16/paperBagLabel.png")}
+.iconPic{background-image:url("img/16/pic.png")}
+.iconPlane{background-image:url("img/16/plane.png")}
+.iconShield{background-image:url("img/16/shield.png")}
+.iconSpeechBubble{background-image:url("img/16/speechBubble.png")}
+.iconThumbsUp{background-image:url("img/16/thumbsUp.png")}
+.iconTick{background-image:url("img/16/tick.png")}
+.iconTop{background-image:url("img/16/top.png")}
+.iconUser{background-image:url("img/16/user.png")}
+.iconUserComment{background-image:url("img/16/userComment.png")}
+.iconUserDarkBlue{background-image:url("img/16/userDarkBlue.png")}
+.iconUserLightBlue{background-image:url("img/16/userLightBlue.png")}
+.iconUserWhite{background-image:url("img/16/userWhite.png")}
+.iconUsers{background-image:url("img/16/users.png")}
+/**
+ * Small icons
+ *
+ * @section Small icon styles
+ */
+.iconBlueMinus{background-image:url("img/10/blueMinus.png")}
+.iconBluePlus{background-image:url("img/10/bluePlus.png")}
+.iconGreenArrowIn{background-image:url("img/10/greenArrowIn.png")}
+.iconGreenArrowOut{background-image:url("img/10/greenArrowOut.png")}
+.iconGreyArrowRight{background-image:url("img/10/greyArrowRight.png")}
+.iconGreyMinus{background-image:url("img/10/greyMinus.png")}
+.iconGreyPlus{background-image:url("img/10/greyPlus.png")}
+.iconKey{background-image:url("img/10/key.png")}
+.iconMail{background-image:url("img/10/mail.png")}
+.iconNotepad{background-image:url("img/10/notepad.png")}
+.iconPlus{background-image:url("img/10/plus.png")}
+.iconSun{background-image:url("img/10/sun.png")}
+.iconTag{background-image:url("img/10/tag.png")}
+.iconWarning{background-image:url("img/10/warning.png")}
+/**
+ * Medium icons
+ *
+ * @section Medium icon styles
+ */
+.iconMedal{background-image:url("img/28/medal.png")}

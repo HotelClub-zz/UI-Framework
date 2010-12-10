@@ -1,0 +1,30 @@
+/**
+ * Box
+ *
+ * CSS List Columns
+ *
+ * Make ordered and unordered lists display as columns
+ *
+ * @project HotelClub UI Framework
+ * @version 1.0
+ * @package (x)html-css
+ * @author Robert Love
+ * @copyright 2010 by the author
+ * @cssdoc version 1.0-pre
+ * @license New BSD License
+ */
+@media screen and (max-width:319px) {.listCol li{float:none !important;width:auto !important}}
+.listCol:after{clear:both;display:block;visibility:hidden;overflow:hidden;height:0 !important;line-height:0;font-size:xx-large;content:" x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x "}
+.listCol{*zoom:1}
+.listCol li{float:left}
+.listCol2 li{width:50%}
+.listCol3 li{width:33.33333%}
+.listCol4 li{width:25%}
+.listCol5 li{width:20%}
+.listCol6 li{width:16.66666%}
+.listCol7 li{width:14.28571%}
+.listCol8 li{width:12.5%}
+.listCol9 li{width:11.11111%}
+.listCol10 li{width:10%}
+.listCol11 li{width:9.09091%}
+.listCol12 li{width:8.33333%}

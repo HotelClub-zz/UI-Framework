@@ -1,0 +1,171 @@
+/**
+ * Box
+ *
+ * CSS Box
+ *
+ * Don't box me in.
+ *
+ * @project HotelClub UI Framework
+ * @version 1.0
+ * @package (x)html-css
+ * @author Robert Love
+ * @copyright 2010 by the author
+ * @cssdoc version 1.0-pre
+ * @license New BSD License
+ */
+.box{-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px;background-color:#fff;background-position:0 0;background-repeat:repeat-x}
+/**
+ * Flat box
+ *
+ * @section Flat finish box styles
+ */
+.boxAliceBlue{background-color:#f0f8ff;color:#000}
+.boxAntiqueWhite{background-color:#faebd7;color:#000}
+.boxAqua{background-color:#00ffff;color:#000}
+.boxAquamarine{background-color:#7fffd4;color:#000}
+.boxAzure{background-color:#f0ffff;color:#000}
+.boxBeige{background-color:#f5f5dc;color:#000}
+.boxBisque{background-color:#ffe4c4;color:#000}
+.boxBlack{background-color:#000000;color:#fff}
+.boxBlanchedAlmond{background-color:#ffebcd;color:#000}
+.boxBlue{background-color:#0000ff;color:#fff}
+.boxBlueViolet{background-color:#8a2be2;color:#000}
+.boxBrown{background-color:#a52a2a;color:#fff}
+.boxBurlyWood{background-color:#deb887;color:#000}
+.boxCadetBlue{background-color:#5f9ea0;color:#000}
+.boxChartreuse{background-color:#7fff00;color:#000}
+.boxChocolate{background-color:#d2691e;color:#fff}
+.boxCoral{background-color:#ff7f50;color:#000}
+.boxCornflowerBlue{background-color:#6495ed;color:#000}
+.boxCornsilk{background-color:#fff8dc;color:#000}
+.boxCrimson{background-color:#dc143c;color:#fff}
+.boxCyan{background-color:#00ffff;color:#000}
+.boxDarkBlue{background-color:#00008b;color:#fff}
+.boxDarkCyan{background-color:#008b8b;color:#fff}
+.boxDarkGoldenRod{background-color:#b8860b;color:#fff}
+.boxDarkGray{background-color:#a9a9a9;color:#000}
+.boxDarkGreen{background-color:#006400;color:#fff}
+.boxDarkKhaki{background-color:#bdb76b;color:#000}
+.boxDarkMagenta{background-color:#8b008b;color:#fff}
+.boxDarkOliveGreen{background-color:#556b2f;color:#fff}
+.boxDarkorange{background-color:#ff8c00;color:#000}
+.boxDarkOrchid{background-color:#9932cc;color:#000}
+.boxDarkRed{background-color:#8b0000;color:#fff}
+.boxDarkSalmon{background-color:#e9967a;color:#000}
+.boxDarkSeaGreen{background-color:#8fbc8f;color:#000}
+.boxDarkSlateBlue{background-color:#483d8b;color:#fff}
+.boxDarkSlateGray{background-color:#2f4f4f;color:#fff}
+.boxDarkTurquoise{background-color:#00ced1;color:#000}
+.boxDarkViolet{background-color:#9400d3;color:#fff}
+.boxDeepPink{background-color:#ff1493;color:#000}
+.boxDeepSkyBlue{background-color:#00bfff;color:#000}
+.boxDimGray{background-color:#696969;color:#fff}
+.boxDodgerBlue{background-color:#1e90ff;color:#000}
+.boxFireBrick{background-color:#b22222;color:#fff}
+.boxFloralWhite{background-color:#fffaf0;color:#000}
+.boxForestGreen{background-color:#228b22;color:#fff}
+.boxFuchsia{background-color:#ff00ff;color:#000}
+.boxGainsboro{background-color:#dcdcdc;color:#000}
+.boxGhostWhite{background-color:#f8f8ff;color:#000}
+.boxGold{background-color:#ffd700;color:#000}
+.boxGoldenRod{background-color:#daa520;color:#000}
+.boxGray{background-color:#808080;color:#000}
+.boxGreen{background-color:#008000;color:#fff}
+.boxGreenYellow{background-color:#adff2f;color:#000}
+.boxHoneyDew{background-color:#f0fff0;color:#000}
+.boxHotPink{background-color:#ff69b4;color:#000}
+.boxIndianRed{background-color:#cd5c5c;color:#000}
+.boxIndigo{background-color:#4b0082;color:#fff}
+.boxIvory{background-color:#fffff0;color:#000}
+.boxKhaki{background-color:#f0e68c;color:#000}
+.boxLavender{background-color:#e6e6fa;color:#000}
+.boxLavenderBlush{background-color:#fff0f5;color:#000}
+.boxLawnGreen{background-color:#7cfc00;color:#fff}
+.boxLemonChiffon{background-color:#fffacd;color:#000}
+.boxLightBlue{background-color:#add8e6;color:#000}
+.boxLightBrown{background-color:#eee9d0;color:#000}
+.boxLightCoral{background-color:#f08080;color:#000}
+.boxLightCyan{background-color:#e0ffff;color:#000}
+.boxLightGoldenRodYellow{background-color:#fafad2;color:#000}
+.boxLightGreen{background-color:#90ee90;color:#000}
+.boxLightGrey{background-color:#d3d3d3;color:#000}
+.boxLightPink{background-color:#ffb6c1;color:#000}
+.boxLightSalmon{background-color:#ffa07a;color:#000}
+.boxLightSeaGreen{background-color:#20b2aa;color:#fff}
+.boxLightSkyBlue{background-color:#87cefa;color:#000}
+.boxLightSlateGray{background-color:#778899;color:#000}
+.boxLightSteelBlue{background-color:#b0c4de;color:#000}
+.boxLightYellow{background-color:#ffffe0;color:#000}
+.boxLime{background-color:#00ff00;color:#fff}
+.boxLimeGreen{background-color:#32cd32;color:#fff}
+.boxLinen{background-color:#faf0e6;color:#000}
+.boxMagenta{background-color:#ff00ff;color:#000}
+.boxMaroon{background-color:#800000;color:#fff}
+.boxMediumAquaMarine{background-color:#66cdaa;color:#000}
+.boxMediumBlue{background-color:#0000cd;color:#fff}
+.boxMediumOrchid{background-color:#ba55d3;color:#000}
+.boxMediumPurple{background-color:#9370d8;color:#000}
+.boxMediumSeaGreen{background-color:#3cb371;color:#fff}
+.boxMediumSlateBlue{background-color:#7b68ee;color:#000}
+.boxMediumSpringGreen{background-color:#00fa9a;color:#000}
+.boxMediumTurquoise{background-color:#48d1cc;color:#000}
+.boxMediumVioletRed{background-color:#c71585;color:#fff}
+.boxMidnightBlue{background-color:#191970;color:#fff}
+.boxMintCream{background-color:#f5fffa;color:#000}
+.boxMistyRose{background-color:#ffe4e1;color:#000}
+.boxMoccasin{background-color:#ffe4b5;color:#000}
+.boxNavajoWhite{background-color:#ffdead;color:#000}
+.boxNavy{background-color:#000080;color:#fff}
+.boxOldLace{background-color:#fdf5e6;color:#000}
+.boxOlive{background-color:#808000;color:#fff}
+.boxOliveDrab{background-color:#6b8e23;color:#fff}
+.boxOrange{background-color:#ffa500;color:#000}
+.boxOrangeRed{background-color:#ff4500;color:#fff}
+.boxOrchid{background-color:#da70d6;color:#000}
+.boxPaleGoldenRod{background-color:#eee8aa;color:#000}
+.boxPaleGreen{background-color:#98fb98;color:#000}
+.boxPaleTurquoise{background-color:#afeeee;color:#000}
+.boxPaleVioletRed{background-color:#d87093;color:#000}
+.boxPapayaWhip{background-color:#ffefd5;color:#000}
+.boxPeachPuff{background-color:#ffdab9;color:#000}
+.boxPeru{background-color:#cd853f;color:#000}
+.boxPink{background-color:#ffc0cb;color:#000}
+.boxPlum{background-color:#dda0dd;color:#000}
+.boxPowderBlue{background-color:#b0e0e6;color:#000}
+.boxPurple{background-color:#800080;color:#fff}
+.boxRed{background-color:#ff0000;color:#fff}
+.boxRosyBrown{background-color:#bc8f8f;color:#000}
+.boxRoyalBlue{background-color:#4169e1;color:#000}
+.boxSaddleBrown{background-color:#8b4513;color:#fff}
+.boxSalmon{background-color:#fa8072;color:#000}
+.boxSandyBrown{background-color:#f4a460;color:#000}
+.boxSeaGreen{background-color:#2e8b57;color:#fff}
+.boxSeaShell{background-color:#fff5ee;color:#000}
+.boxSienna{background-color:#a0522d;color:#fff}
+.boxSilver{background-color:#c0c0c0;color:#000}
+.boxSkyBlue{background-color:#87ceeb;color:#000}
+.boxSlateBlue{background-color:#6a5acd;color:#000}
+.boxSlateGray{background-color:#708090;color:#000}
+.boxSnow{background-color:#fffafa;color:#000}
+.boxSpringGreen{background-color:#00ff7f;color:#000}
+.boxSteelBlue{background-color:#4682b4;color:#fff}
+.boxTan{background-color:#d2b48c;color:#000}
+.boxTeal{background-color:#008080;color:#fff}
+.boxThistle{background-color:#d8bfd8;color:#000}
+.boxTomato{background-color:#ff6347;color:#000}
+.boxTurquoise{background-color:#40e0d0;color:#000}
+.boxViolet{background-color:#ee82ee;color:#000}
+.boxWheat{background-color:#f5deb3;color:#000}
+.boxWhite{background-color:#ffffff;color:#000}
+.boxWhiteSmoke{background-color:#f5f5f5;color:#000}
+.boxYellow{background-color:#ffff00;color:#000}
+.boxYellowGreen{background-color:#9acd32;color:#000}
+/**
+ * Gloss box
+ *
+ * @section Gloss finish box styles
+ */
+.boxGrayGloss{background-image:url("img/grayGloss.png");border:1px solid #ddd}
+.boxGrayGlossR{background-image:url("img/grayGlossR.png");background-position:0 100%;border:1px solid #ddd}
+.boxRedGloss{box-shadow:0px 0px 0px 1px rgba(255,0,0,0.35) inset;-moz-box-shadow:0px 0px 0px 1px rgba(255,0,0,0.35) inset;-webkit-box-shadow:0px 0px 0px 1px rgba(255,0,0,0.35) inset;background-color:#910404;background-image:url("img/redGloss.png");border:1px solid #820101;color:#fff}
+.boxGrayGlossHighlight{border-radius:5px 0 0 0;-moz-border-radius:5px 0 0 0;-webkit-border-radius:5px 0 0 0;box-shadow:1px 1px 0 #FFFFFF inset;-moz-box-shadow:1px 1px 0 #FFFFFF inset;-webkit-box-shadow:1px 1px 0 #FFFFFF inset;background-image:url("img/grayGlossHighlight.png");background-repeat:repeat-x;border:1px solid #CCCCCC;}

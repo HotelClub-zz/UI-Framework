@@ -1,0 +1,55 @@
+/**
+ * Layout
+ *
+ * CSS Layout - Based on OOCSS Template
+ *
+ * Layouts are used to solve common design patterns for page layout. Using these
+ * layouts you can build pages which have a header, footer, left and right
+ * columns, and a main content area. Any of the sections can be broken up via
+ * grids. You can also use grids instead of columns. The main column is fully
+ * liquid, taking up all the rest of the space when the left column and right
+ * column have been rendered.
+ *
+ * @project HotelClub UI Framework
+ * @version 1.0
+ * @package (x)html-css
+ * @author Robert Love
+ * @copyright 2010 by the author
+ * @cssdoc version 1.0-pre
+ * @license New BSD License
+ * @see http://wiki.github.com/stubbornella/oocss/template
+ */
+body{_text-align:center}
+.main{display:table-cell;*display:block;width:auto}
+.content,.main{*zoom:1}
+.content:after,.main:after{clear:both;display:block;visibility:hidden;overflow:hidden;height:0 !important;line-height:0;font-size:xx-large;content:" x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x "}
+/**
+ * Page
+ *
+ * @section page
+ */
+.page{margin:0 auto;width:1000px;_text-align:left}
+/**
+ * Liquid
+ *
+ * @section liquid
+ * @extends page
+ */
+.liquid{width:auto;margin:0}
+/**
+ * Columns
+ *
+ * @section columns
+ */
+.leftCol{float:left;width:220px;_margin-right:-3px}
+.rightCol{float:right;width:320px;_margin-left:-3px}
+/**
+ * Common column widths
+ *
+ * @section columns
+ * @extends leftCol
+ * @extends rightCol
+ */
+.narrow{width:180px}
+.aside{width:300px}
+.wide{width:500px}
